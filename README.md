@@ -46,10 +46,12 @@ npm install
 #run back-en ($ cd ../server/src)
 nodemon index.js
 ```
-## Front-end
+## :data: Front-end
 ```bash
 # Install dependencies ($ cd../client)
 npm install
 #Serve on localhost:8080 ($ cd../client))
 npm run serve
 ```
+
+## Screenshots
