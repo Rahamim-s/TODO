@@ -46,7 +46,7 @@ npm install
 #run back-en ($ cd ../server/src)
 nodemon index.js
 ```
-## :data: Front-end
+## Front-end
 ```bash
 # Install dependencies ($ cd../client)
 npm install
@@ -54,4 +54,17 @@ npm install
 npm run serve
 ```
 
-## Screenshots
+## Screenshots: 
+# HOME PAGE 
+![image](https://user-images.githubusercontent.com/73166051/159783937-3332dbd3-409d-4a4c-bccb-89ca8ee906e5.png)
+# LOGIN
+![image](https://user-images.githubusercontent.com/73166051/159784091-645cb813-c436-4918-a32c-73a8b0fc17ad.png)
+# SIGN IN
+![image](https://user-images.githubusercontent.com/73166051/159784181-7804d84b-a9c0-4515-b808-cf98f0ed23e8.png)
+# TODO LIST
+![image](https://user-images.githubusercontent.com/73166051/159784471-ec256b37-a5e4-44f8-8697-8f85273c55ef.png)
+
+
+
+
+
