@@ -3,13 +3,21 @@
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/made-with-vue.svg)](http://forthebadge.com)
 
 
+# Technologies used
+* Vue.js
+* Node.js
+* Mysql
+* Express
+* axios
+* sequelize
+* body-parser
+
 ## Versions
 **Dernière version stable :** 1.0
 **Dernière version :** 1.0
 
 
 ## Auteurs
-
 - SITBON Rahamim 
 - BARANES KEENAN
 - NOE BRUMELOT
