@@ -34,7 +34,7 @@ All pages must be secure using a token to store the session.
 #Back-end
 ```bash
 # Install dependencies ($ cd ../server)
-npm instal
+npm install
 #run back-en ($ cd ../server/src)
 nodemon index.js
 ```
