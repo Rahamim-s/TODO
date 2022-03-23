@@ -16,21 +16,23 @@
 - NOE BRUMELOT
 
 # High level description
+
 # Vue Crash Course (TodoList)
 
-This is the code for [the crash course on YouTube](https://youtu.be/Wy9q22isx3U)
 
 ## Quick Start
-
+#Back-end
 ```bash
-# Install dependencies
-npm install
-
-# Serve on localhost:8080
-npm run serve
-
-# Build for production
-npm run build
+# Install dependencies ($ cd ../server)
+npm instal
+#run back-en ($ cd ../server/src)
+nodemon index.js
 ```
-
-
+# Front-end
+```bash
+#
+# Install dependencies ($ cd../client)
+npm install
+#Serve on localhost:8080 ($ cd../client))
+npm run serve
+```
