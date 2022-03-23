@@ -17,8 +17,6 @@
 
 # High level description
 
-# Vue Crash Course (TodoList)
-
 
 ## Quick Start
 #Back-end
