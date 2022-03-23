@@ -38,15 +38,15 @@ All pages must be secure using a token to store the session.
 8. Understand and use the HTTP protocol within web API’s.
 
 
-## Quick Start
-# Back-end
+# Quick Start
+## Back-end
 ```bash
 # Install dependencies ($ cd ../server)
 npm install
 #run back-en ($ cd ../server/src)
 nodemon index.js
 ```
-# Front-end
+## Front-end
 ```bash
 # Install dependencies ($ cd../client)
 npm install
